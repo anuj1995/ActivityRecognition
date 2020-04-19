@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Activity_recognition</string>
+    <string name="select_file">Select File</string>
+    <string name="load_input_data">Load input data</string>
+    <string name="load_shapelet">load shapelet</string>
+    <string name="start_input_stream">start_input_stream</string>
+</resources>
